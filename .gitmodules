@@ -1,4 +1,7 @@
 [submodule "al-data"]
-    path = al-data
-    url = https://github.com/ACGN-Alliance/nonebot-plugin-azurlane-assistant-data
+	path = al-data
+	url = https://github.com/ACGN-Alliance/nonebot-plugin-azurlane-assistant-data
     branch = main
+[submodule "nonebot-plugin-azurlane-assistant-data"]
+	path = nonebot-plugin-azurlane-assistant-data
+	url = https://github.com/ACGN-Alliance/nonebot-plugin-azurlane-assistant-data
